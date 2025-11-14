@@ -1,1 +1,1 @@
-# Proyecto del Laboratorio
+# Este cambio viene desde GitHub.
